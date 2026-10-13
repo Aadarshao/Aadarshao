@@ -35,7 +35,7 @@ the basics: ETL pipelines and Airflow, with Spark, SQL and Linux. The repositori
 below come from that path.
 
 **Tools I use:** Python, TypeScript, React, Next.js, Apache Airflow, dbt, Spark,
-PostgreSQL, Docker, AWS, Cloudflare.
+PostgreSQL, AWS, Cloudflare.
 
 ### Elsewhere
 
