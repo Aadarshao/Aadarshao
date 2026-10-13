@@ -1,0 +1,5 @@
+# Local only: instructions and tools for Claude Code. This repository is public
+# (it is the GitHub profile README), so none of these may be pushed.
+CLAUDE.md
+.claude/
+.local/
